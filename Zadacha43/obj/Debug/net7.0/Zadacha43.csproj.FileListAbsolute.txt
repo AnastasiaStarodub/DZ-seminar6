@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\bin\Debug\net7.0\Zadacha43.exe
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\bin\Debug\net7.0\Zadacha43.deps.json
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\bin\Debug\net7.0\Zadacha43.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\bin\Debug\net7.0\Zadacha43.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\bin\Debug\net7.0\Zadacha43.pdb
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\refint\Zadacha43.dll
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.pdb
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\Zadacha43.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение\Projects\C# ДЗ6\Zadacha43\obj\Debug\net7.0\ref\Zadacha43.dll
